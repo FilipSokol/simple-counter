@@ -1,2 +1,2 @@
 # simple-counter
-Created with CodeSandbox
+This is a simple counter app made in React.
